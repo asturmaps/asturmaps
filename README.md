@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola a todos, soy Oscar Cuadrado, Ingeniero en Geodesia y Cartografía, lo que hoy sería Ingeniería en Geomática con Máster en Geotecnologías.👋
 
 <!--
 **asturmaps/asturmaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
